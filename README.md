@@ -36,11 +36,6 @@ $ cat about.txt
 ### 🧰 Stack
 
 <p>
-  <img src="https://img.shields.io/badge/CrowdStrike-E01F27?style=flat-square&logo=crowdstrike&logoColor=white">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white">
-  <img src="https://img.shields.io/badge/Zscaler-0089D6?style=flat-square&logo=zscaler&logoColor=white">
   <img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Jamf-000000?style=flat-square&logo=jamf&logoColor=white">
   <br>
